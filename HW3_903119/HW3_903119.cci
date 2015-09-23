@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:467E6985
+NODE:I LEVEL:0 LINE:24 "F:\cavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "F:\cavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "F:\cavr\inc\math.h"
+NODE:C LEVEL:0 LINE:27 "digit -> FLASH"
+NODE:F LEVEL:0 LINE:28 "sevenSegment(int input)"
+NODE:F LEVEL:0 LINE:43 "sevenSegment2(int input)"
+NODE:V LEVEL:0 LINE:57 "counterLightVertical -> R4,R5"
+NODE:V LEVEL:0 LINE:57 "counterLightHorizontal -> R6,R7"
+NODE:F LEVEL:0 LINE:59 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:73 "main(void)"

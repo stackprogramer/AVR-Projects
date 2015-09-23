@@ -1,0 +1,14 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+_seed                                                             0x0260       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+counterLightVertical                                              R4,R5        2
+counterLightHorizontal                                            R6,R7        2
